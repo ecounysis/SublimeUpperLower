@@ -1,0 +1,12 @@
+ [
+    {
+        "id" : "uppercase",
+        "caption" : "Uppercase",
+        "command" : "uppercase"
+    },
+    {
+        "id" : "lowercase",
+        "caption" : "Lowercase",
+        "command" : "lowercase"
+    }
+]
